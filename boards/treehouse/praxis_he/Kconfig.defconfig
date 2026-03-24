@@ -1,0 +1,6 @@
+# Copyright (c) 2025 Peter Johanson
+# SPDX-License-Identifier: MIT
+
+if BOARD_PRAXIS_HE
+
+endif # BOARD_PRAXIS_HE
